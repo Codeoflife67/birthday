@@ -15,6 +15,10 @@ body{
     height: 427px;
     width: 859px;
 }
+.last{
+    font-size: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .hellofood{
     height: 495px;
     width: 859px;
