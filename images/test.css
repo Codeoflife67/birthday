@@ -3,26 +3,23 @@ body{
     flex-direction: initial;
 }
 .hearts{
-    float:right;
-    position: absolute;
-    top: 550px;
-    right: 0px;
     height: 427px;
     width: 859px;
 }
+.con{
+    display:flex
+}
+.gon{
+    display:flex
+}
+.bon{
+    display:flex
+}
 .hellofood{
-    float: right;
-    position: absolute;
-    top: 975px;
-    right: 0px;
     height: 495px;
     width: 859px;
 }
 .teddy{
-    float: right;
-    position: absolute;
-    top: 1460px;
-    right: 0px;
     height: 440px;
     width: 859px;
 
