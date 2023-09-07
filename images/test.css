@@ -2,10 +2,6 @@ body{
     background-color:  rgb(241, 106, 185);;
     flex-direction: initial;
 }
-.hearts{
-    height: 427px;
-    width: 859px;
-}
 .con{
     display:flex
 }
@@ -14,6 +10,10 @@ body{
 }
 .bon{
     display:flex
+}
+.hearts{
+    height: 427px;
+    width: 859px;
 }
 .hellofood{
     height: 495px;
